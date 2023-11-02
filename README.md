@@ -70,26 +70,3 @@ Open the ```data_analysis.ipynb``` file and run to view the data analysis and gr
   
 <br>
 
----
-
-### Contributors 
-
-Abhir Mehra
-* abhirmehra5@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/abhir-mehra/)
-
-Cole Frederick
-* fredec96@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/cole-frederick-085982b0/)
-
-Josh Thompkins
-* joshuathompkins07@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/rebekah-lin/)
-
-Rebekah (Libaijia) Lin
-* rebekah.lin.28@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/joshua-thompkins/)
-
-Sebastian Sandoval
-* ssandoval1994r@gmail.com
-* LinkedIn
