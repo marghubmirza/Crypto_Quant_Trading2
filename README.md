@@ -1,5 +1,4 @@
-# Crypto Quant Trading
-* Original Repository located at: https://github.com/fredec96/Crypto_Quant_Trading
+
 ## About
 Volatile crypto’s that are correlated with BTC can return greater profits through active trading using BTC as a broad market signal. In this project, BTC is used as the most efficient cryptocurrency. By using pure technical analysis of SMA, we determine the trading signal for longing and shorting decisions. Cumulative returns are calculated to test efficiency and profitability of trading crypto's with this approach.
 
